@@ -1,7 +1,7 @@
 {
   "name": "maliklabs.com",
   "version": "0.1.0",
-  "homepage": "https://maliklabs.github.io/maliklabs.com",
+  "homepage": "www.maliklabs.com",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",

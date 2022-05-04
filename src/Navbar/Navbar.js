@@ -13,7 +13,7 @@ const Navbar = () => {
                 to="projects-tree"
                 spy={true}
                 smooth={true}
-                offset={64}
+                offset={-64}
                 duration={1000}
             >
                 <button type="button">Projects</button>

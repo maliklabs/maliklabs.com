@@ -1,6 +1,6 @@
 import "./Navbar.css";
 import logo from "./logo.png";
-import { Link, animateScroll as scroll } from "react-scroll";
+import { Link } from "react-scroll";
 
 // TODO: Add More Buttons
 

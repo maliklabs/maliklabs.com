@@ -2,6 +2,8 @@ import "./App.css";
 import Navbar from "../Navbar";
 import Projects from "../Projects";
 import logo from "./logo.png";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faHeart } from "@fortawesome/free-regular-svg-icons";
 
 const App = () => {
     return (
@@ -18,7 +20,8 @@ const App = () => {
                 />
                 <p className="font-bold text-5xl text-[#F3A946]">Malik Labs</p>
                 <p className="font-bold text-1xl text-[#F3A946]">
-                    We Like Open Source Projects
+                    We <FontAwesomeIcon icon={faHeart} />{" "}
+                    Open Source Projects
                 </p>
             </div>
             <Projects />

@@ -10,13 +10,13 @@ const Navbar = () => {
             <img src={logo} alt="Company Logo" className="w-[64px] h-[38px]" />
             <Link
                 activeClass="active"
-                to="yellow"
+                to="projects-tree"
                 spy={true}
                 smooth={true}
-                offset={0}
+                offset={64}
                 duration={1000}
             >
-                <button type="button">Peepeepoopoo</button>
+                <button type="button">Projects</button>
             </Link>
         </nav>
     );

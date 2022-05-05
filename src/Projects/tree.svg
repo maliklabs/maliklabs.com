@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="420.32263"
+   height="500.00653"
+   viewBox="0 0 111.21036 132.2934"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="tree.svg"
+   inkscape:export-filename="/Users/noumanm/Desktop/Malik Labs/maliklabs.com/src/Projects/tree.png"
+   inkscape:export-xdpi="95.926315"
+   inkscape:export-ydpi="95.926315"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="184.90842"
+     inkscape:cy="229.1026"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="1440"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     units="px"
+     width="300px"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="true"
+     showguides="true"
+     inkscape:lockguides="false" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4007"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3739"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect891"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect972"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(3.968804,16.911836)">
+    <path
+       style="fill:none;stroke:#f3a946;stroke-width:12.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 51.593696,-10.561836 c 0.06138,12.14834 0.122754,24.29666 8.339252,30.349405 8.216498,6.052744 24.587408,6.009965 40.958612,5.967185"
+       id="path970"
+       inkscape:path-effect="#path-effect972"
+       inkscape:original-d="m 51.593696,-10.561836 c 0.0614,12.1483399 0.12279,24.29666 0.18413,36.44493 16.37162,-0.0427 32.74253,-0.0855 49.113734,-0.12834"
+       inkscape:export-filename="/Users/noumanm/Desktop/Malik Labs/maliklabs.com/src/Projects/curve.png"
+       inkscape:export-xdpi="25.4"
+       inkscape:export-ydpi="25.4" />
+    <path
+       style="fill:none;stroke:#f3a946;stroke-width:12.7973;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 51.593663,-10.509972 V 108.98291"
+       id="path2535" />
+    <path
+       style="fill:none;stroke:#f3a946;stroke-width:12.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 51.679057,35.461976 c -0.06138,12.14834 -0.122754,24.29666 -8.339252,30.349405 -8.216498,6.052744 -24.587408,6.009965 -40.9586091,5.967185"
+       id="path3735"
+       inkscape:export-filename="/Users/noumanm/Desktop/Malik Labs/maliklabs.com/src/Projects/curve.png"
+       inkscape:export-xdpi="25.4"
+       inkscape:export-ydpi="25.4"
+       inkscape:original-d="m 51.679057,35.461976 c -0.0614,12.14834 -0.12279,24.29666 -0.18413,36.44493 -16.37162,-0.0427 -32.74253,-0.0855 -49.1137311,-0.12834"
+       inkscape:path-effect="#path-effect3739" />
+  </g>
+</svg>

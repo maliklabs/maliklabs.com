@@ -6,7 +6,7 @@ import { Link } from "react-scroll";
 
 const Navbar = () => {
     return (
-        <nav className="bg-[#2F2F2F] w-screen fixed h-16 pt-3 pb-3 pl-4 flex flex-row items-center">
+        <nav className="bg-[#2F2F2F] w-screen fixed z-10 h-16 pt-3 pb-3 pl-4 flex flex-row items-center">
             <img src={logo} alt="Company Logo" className="w-[64px] h-[38px]" />
             <Link
                 activeClass="active"

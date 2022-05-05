@@ -18,7 +18,7 @@ const Navbar = () => {
                     className="relative inline-block text-left sm:hidden"
                 >
                     <div>
-                        <Menu.Button className="text-[#F3A946]">
+                        <Menu.Button className="text-[#F3A946] inline-flex w-full justify-center rounded-md bg-black bg-opacity-20 px-4 py-2 text-sm font-medium hover:bg-opacity-30 focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75">
                             <FontAwesomeIcon icon={faBars} />
                         </Menu.Button>
                     </div>
@@ -31,7 +31,7 @@ const Navbar = () => {
                         leaveFrom="transform opacity-100 scale-100"
                         leaveTo="transform opacity-0 scale-95"
                     >
-                        <Menu.Items className="absolute right-0 mt-2 w-[7.5rem] rounded-md bg-[#1E1E1E] shadow-lg ring-1 ring-black ring-opacity-5">
+                        <Menu.Items className="absolute right-0 mt-2 w-[7.5rem] divide-y divide-[#F3A946] rounded-md bg-[#1E1E1E] shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none">
                             <div className="px-3 py-3">
                                 <Menu.Item>
                                     {({ active }) => (
@@ -83,13 +83,13 @@ const Navbar = () => {
                                         >
                                             <Link
                                                 activeClass="active"
-                                                to="projects-tree"
+                                                to="team"
                                                 spy={true}
                                                 smooth={true}
                                                 offset={-64}
                                                 duration={1000}
                                             >
-                                                Projects
+                                                Team
                                             </Link>
                                         </button>
                                     )}
@@ -135,13 +135,13 @@ const Navbar = () => {
                 >
                     <Link
                         activeClass="active"
-                        to="projects-tree"
+                        to="team"
                         spy={true}
                         smooth={true}
                         offset={-64}
                         duration={1000}
                     >
-                        Projects
+                        Team
                     </Link>
                 </button>
             </div>

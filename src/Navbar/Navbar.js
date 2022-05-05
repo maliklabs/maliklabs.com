@@ -99,21 +99,21 @@ const Navbar = () => {
                     </Transition>
                 </Menu>
 
-                <button
-                    type="button"
-                    className="hidden sm:block transition duration-300 ease-in-out hover:bg-[#F3A946] w-24 h-8 rounded-3xl font-semibold text-[#F3A946] border-solid border-2 border-[#F3A946] hover:text-[#1E1E1E]"
+                <Link
+                    activeClass="active"
+                    to="projects-tree"
+                    spy={true}
+                    smooth={true}
+                    offset={-64}
+                    duration={1000}
                 >
-                    <Link
-                        activeClass="active"
-                        to="projects-tree"
-                        spy={true}
-                        smooth={true}
-                        offset={-64}
-                        duration={1000}
+                    <button
+                        type="button"
+                        className="hidden sm:block transition duration-300 ease-in-out hover:bg-[#F3A946] w-24 h-8 rounded-3xl font-semibold text-[#F3A946] border-solid border-2 border-[#F3A946] hover:text-[#1E1E1E]"
                     >
                         Projects
-                    </Link>
-                </button>
+                    </button>
+                </Link>
                 {/* <button
                     type="button"
                     className="hidden sm:block transition duration-300 ease-in-out hover:bg-[#F3A946] w-24 h-8 rounded-3xl font-semibold text-[#F3A946] border-solid border-2 border-[#F3A946] hover:text-[#1E1E1E]"
@@ -129,21 +129,21 @@ const Navbar = () => {
                         Projects
                     </Link>
                 </button> */}
-                <button
-                    type="button"
-                    className="hidden sm:block transition duration-300 ease-in-out hover:bg-[#F3A946] w-24 h-8 rounded-3xl font-semibold text-[#F3A946] border-solid border-2 border-[#F3A946] hover:text-[#1E1E1E]"
+                <Link
+                    activeClass="active"
+                    to="team"
+                    spy={true}
+                    smooth={true}
+                    offset={-64}
+                    duration={1000}
                 >
-                    <Link
-                        activeClass="active"
-                        to="team"
-                        spy={true}
-                        smooth={true}
-                        offset={-64}
-                        duration={1000}
+                    <button
+                        type="button"
+                        className="hidden sm:block transition duration-300 ease-in-out hover:bg-[#F3A946] w-24 h-8 rounded-3xl font-semibold text-[#F3A946] border-solid border-2 border-[#F3A946] hover:text-[#1E1E1E]"
                     >
                         Team
-                    </Link>
-                </button>
+                    </button>
+                </Link>
             </div>
         </nav>
     );

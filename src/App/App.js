@@ -17,7 +17,7 @@ const App = () => {
                 <img
                     src={logo}
                     alt="Company Logo"
-                    className="w-[500px] h-[295px] mb-6"
+                    className="pl-4 pr-4 sm:pl-0 sm:pr-0 w-[500px] h-[295px] mb-6"
                 />
                 <p className="font-bold text-5xl text-[#F3A946]">Malik Labs</p>
                 <p className="font-bold text-1xl text-[#F3A946]">

@@ -53,7 +53,7 @@ const Navbar = () => {
                                     )}
                                 </Menu.Item>
                             </div>
-                            <div className="px-3 py-3">
+                            {/* <div className="px-3 py-3">
                                 <Menu.Item>
                                     {({ active }) => (
                                         <button
@@ -73,7 +73,7 @@ const Navbar = () => {
                                         </button>
                                     )}
                                 </Menu.Item>
-                            </div>
+                            </div> */}
                             <div className="px-3 py-3">
                                 <Menu.Item>
                                     {({ active }) => (
@@ -114,7 +114,7 @@ const Navbar = () => {
                         Projects
                     </Link>
                 </button>
-                <button
+                {/* <button
                     type="button"
                     className="hidden sm:block transition duration-300 ease-in-out hover:bg-[#F3A946] w-24 h-8 rounded-3xl font-semibold text-[#F3A946] border-solid border-2 border-[#F3A946] hover:text-[#1E1E1E]"
                 >
@@ -128,7 +128,7 @@ const Navbar = () => {
                     >
                         Projects
                     </Link>
-                </button>
+                </button> */}
                 <button
                     type="button"
                     className="hidden sm:block transition duration-300 ease-in-out hover:bg-[#F3A946] w-24 h-8 rounded-3xl font-semibold text-[#F3A946] border-solid border-2 border-[#F3A946] hover:text-[#1E1E1E]"

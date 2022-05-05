@@ -27,7 +27,7 @@ const Team = () => {
                 </div>
                 {/* <div className="w-[0px] h-full mx-4 border-solid border-[1px] border-[#F3A946] rounded-lg"></div> */}
                 <div className="flex flex-col justify-start w-full h-full gap-1 pl-4">
-                    <div className="h-fit">
+                    <div className="h-fit sm:h-1/3">
                         <p className="text-[#F3A946] font-semibold">Profile</p>
                         <p className="text-xs text-[#F3A946]">
                             I am a student studying Computer Science with a
@@ -38,7 +38,7 @@ const Team = () => {
                         </p>
                     </div>
                     <div className="w-full h-[0px] border-solid border-[1px] border-[#F3A946] rounded-lg"></div>
-                    <div className="h-fit">
+                    <div className="h-fit sm:h-1/3">
                         <p className="text-[#F3A946] font-semibold">
                             Interests
                         </p>
@@ -50,7 +50,7 @@ const Team = () => {
                         </p>
                     </div>
                     <div className="w-full h-[0px] border-solid border-[1px] border-[#F3A946] rounded-lg"></div>
-                    <div className="h-fit">
+                    <div className="h-fit sm:h-1/3">
                         <p className="text-[#F3A946] font-semibold">Links</p>
                         <p className="text-[#F3A946] text-4xl">
                             <a
